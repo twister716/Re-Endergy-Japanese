@@ -1,4 +1,4 @@
-package com.sakurain.re_endergy; // 确保包名正确
+package com.sakurain.re_endergy;
 
 import net.neoforged.api.distmarker.Dist;
 import net.neoforged.bus.api.SubscribeEvent;
